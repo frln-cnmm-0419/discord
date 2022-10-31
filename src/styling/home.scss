@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
+
+$olive-green: #3D550C;
+$lime-green: #81B622;
+$yellow-green: #ECF87F;
+$green: #59981A;
+
+*, *::before. *::after {
+  box-sizing: border-box;
+  font-family: 'Nunito', sans-serif;
+}
+
+.wrapper {
+
+  .sideNav {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+
+  }
+}
